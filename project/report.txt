@@ -1,0 +1,8 @@
+This is a rough diary to make a report out of later.
+
+Laser does not work with the IR receiver in our sensors kit. This is because
+the IR receiver is tuned to detect IR at 38 KHz. It has a bandpass filter within
+it.
+The laser is a contant beam of light and hence, does not work.
+Switched to using IR LED. Apparently, a log of commercial laser tag systems use
+the same. 

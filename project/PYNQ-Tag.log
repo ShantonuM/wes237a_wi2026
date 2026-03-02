@@ -1,0 +1,21 @@
+2026-03-02 09:35:30.934 - INFO - Initialized Laser class
+2026-03-02 09:35:30.937 - DEBUG - Laser signal pin: 3
+2026-03-02 09:35:30.939 - DEBUG - PWM frequency: 38.46 KHz
+2026-03-02 09:35:30.942 - DEBUG - PWM duty cycle: 50%
+2026-03-02 09:35:31.101 - INFO - Initialized IR Receiver class
+2026-03-02 09:35:31.117 - DEBUG - IR receiver signal pin: 3
+2026-03-02 09:35:57.200 - INFO - Laser shot!
+2026-03-02 09:35:57.206 - DEBUG - Laser pulse duration: 0.25 seconds
+2026-03-02 09:35:57.363 - INFO - Hit!
+2026-03-02 09:36:13.141 - INFO - Laser shot!
+2026-03-02 09:36:13.147 - DEBUG - Laser pulse duration: 0.25 seconds
+2026-03-02 09:36:13.229 - INFO - Hit!
+2026-03-02 09:36:15.564 - INFO - Laser shot!
+2026-03-02 09:36:15.567 - DEBUG - Laser pulse duration: 0.25 seconds
+2026-03-02 09:36:15.665 - INFO - Hit!
+2026-03-02 09:36:18.455 - INFO - Laser shot!
+2026-03-02 09:36:18.460 - DEBUG - Laser pulse duration: 0.25 seconds
+2026-03-02 09:36:18.493 - INFO - Hit!
+2026-03-02 09:36:21.140 - INFO - Laser shot!
+2026-03-02 09:36:21.145 - DEBUG - Laser pulse duration: 0.25 seconds
+2026-03-02 09:36:21.329 - INFO - Hit!

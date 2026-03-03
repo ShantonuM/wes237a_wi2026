@@ -1,8 +1,19 @@
 This is a rough diary to make a report out of later.
 
+3/1/26
+
 Laser does not work with the IR receiver in our sensors kit. This is because
 the IR receiver is tuned to detect IR at 38 KHz. It has a bandpass filter within
 it.
 The laser is a contant beam of light and hence, does not work.
 Switched to using IR LED. Apparently, a log of commercial laser tag systems use
-the same. 
+the same.
+
+3/2/26
+
+First connected +5V pin on joystick module to Arduino Nano ESP32's VBUS - should
+have worked, but didn't. The neutral position reading was off, so was the max.
+
+Connected the pin to Nano's 3.3V and it was much better.
+
+Next step: Do the bluetooth connection 
